@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: aspmx.l.google.com
 mx: *.aspmx.l.google.com
 mx: masarand-com.mail.protection.outlook.com
